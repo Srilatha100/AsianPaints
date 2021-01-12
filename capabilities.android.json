@@ -1,6 +1,6 @@
 {
     "deepLink": false,
-    "pushNotifications": false,
+    "pushNotifications": true,
     "bluetooth": true,
     "maps": false,
     "mapsIos": false

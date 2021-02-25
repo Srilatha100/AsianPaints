@@ -33,7 +33,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.asianpaints.mobile"
+        applicationId "com.asianpaintspoc.mobile.developerapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         missingDimensionStrategy "react-native-camera", "general"

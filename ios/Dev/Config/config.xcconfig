@@ -1,5 +1,5 @@
 #include "../../Config/config.xcconfig"
 
 MAIN_STORY_BOARD = LaunchApp
-BUNDLE_DISPLAY_NAME = Dev-AsianPaints
+BUNDLE_DISPLAY_NAME = Dev-AsianPaintsPOC
 BUNDLE_IDENTIFIER_APPEND = .developerapp

@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "1031710427825",
-    "project_id": "asianpaints-1f4c7",
-    "storage_bucket": "asianpaints-1f4c7.appspot.com"
+    "project_number": "556144770369",
+    "project_id": "apl-poc",
+    "storage_bucket": "apl-poc.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1031710427825:android:2f5e7694d1a685dec73090",
+        "mobilesdk_app_id": "1:556144770369:android:2d73bff989eb140dddb5c0",
         "android_client_info": {
-          "package_name": "com.asianpaints.mobile"
+          "package_name": "com.asianpaintspoc.mobile.developerapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1031710427825-j58nanh7a34sfn5ed7rkt4b6big4rmva.apps.googleusercontent.com",
+          "client_id": "556144770369-c8f6c44l8mrf9ej4bgodqpkldek0pade.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAWkZ-cQXM6KdQsJuGrzWkZbJJucTY5EiI"
+          "current_key": "AIzaSyB0lLGeW47giBDhS4d1UXl5Bv5xFLM3dk8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1031710427825-j58nanh7a34sfn5ed7rkt4b6big4rmva.apps.googleusercontent.com",
+              "client_id": "556144770369-c8f6c44l8mrf9ej4bgodqpkldek0pade.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
